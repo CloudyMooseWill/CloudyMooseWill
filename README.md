@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any potential projects that will develop my skills
 - 📫 How to reach me: Insta - @cloudymoose 
 - Twitter - @MorseWill
-
+- LinkedIn - www.linkedin.com/in/william-morse-121wm
 
 <!---
 CloudyMooseWill/CloudyMooseWill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
